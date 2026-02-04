@@ -24,9 +24,11 @@ This work focuses on a post-processing approach applied to the GRN network infer
 
 Dataset 1: 
 From BEELINE Benchmark datasets,  4 curated datasets named GSD, HSC, VSC, mCAD was evaluated using the gold standard network. The benchmark datsets were evaluated on AUPR, AUROC, MCC, F1-Score.
-The second dataset used is the HIV Dataset collected from CZ CELLXGENE Site : https://cellxgene.cziscience.com/collections/126afc71-47fb-4e9d-8aaf-9d9f61e0ac77. 
+
+<img width="665" height="220" alt="image" src="https://github.com/user-attachments/assets/d2b2e440-a8d7-4b9b-8f05-4ca9de99376c" />
 
 Dataset 2: 
+The second dataset used is the HIV Dataset collected from CZ CELLXGENE Site : https://cellxgene.cziscience.com/collections/126afc71-47fb-4e9d-8aaf-9d9f61e0ac77. 
 The dataset is evaluated on the following conditions:
 1. HIV Vs Normal samples
 2. HIV-Leishmaniasis Vs Normal samples
