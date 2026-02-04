@@ -1,0 +1,309 @@
+Entity 1,Entity 2,Weight,Network group,Network
+MBL2,HP,0.007480172,Co-expression,Roth-Zlotnik-2006
+CRP,HP,0.008465139,Co-expression,Roth-Zlotnik-2006
+CRP,MBL2,0.019627798,Co-expression,Roth-Zlotnik-2006
+HLA-B,TRIM5,0.0067529646,Co-expression,Roth-Zlotnik-2006
+CD40LG,KIR3DL1,0.014170734,Co-expression,Roth-Zlotnik-2006
+CD40LG,CCR2,0.016336314,Co-expression,Roth-Zlotnik-2006
+CD40LG,IL2RA,0.019016154,Co-expression,Roth-Zlotnik-2006
+CD40LG,CD28,0.020253703,Co-expression,Roth-Zlotnik-2006
+CD40LG,IFNG,0.016519032,Co-expression,Roth-Zlotnik-2006
+CCR5,PRF1,0.014898381,Co-expression,Roth-Zlotnik-2006
+SERPINA1,HP,0.011151341,Co-expression,Roth-Zlotnik-2006
+CXCL12,HLA-B,0.008002869,Co-expression,Roth-Zlotnik-2006
+ALB,HP,0.007498115,Co-expression,Roth-Zlotnik-2006
+ALB,MBL2,0.013086365,Co-expression,Roth-Zlotnik-2006
+CCL5,PRF1,0.011313443,Co-expression,Roth-Zlotnik-2006
+CCL5,IFNG,0.013131844,Co-expression,Roth-Zlotnik-2006
+CCL5,HLA-B,0.0052238856,Co-expression,Roth-Zlotnik-2006
+CCL5,CCR5,0.014648189,Co-expression,Roth-Zlotnik-2006
+CX3CR1,CCL3,0.009857325,Co-expression,Innocenti-Brown-2011
+CCR2,CX3CR1,0.012300976,Co-expression,Innocenti-Brown-2011
+CD28,CCL3,0.01585938,Co-expression,Innocenti-Brown-2011
+CD28,CX3CR1,0.012429152,Co-expression,Innocenti-Brown-2011
+IFNG,CCL3,0.017628325,Co-expression,Innocenti-Brown-2011
+CCR5,CCL3,0.0074064154,Co-expression,Innocenti-Brown-2011
+CCR5,CX3CR1,0.006968431,Co-expression,Innocenti-Brown-2011
+CCR5,CCR2,0.011835343,Co-expression,Innocenti-Brown-2011
+CCR5,PRF1,0.0074609746,Co-expression,Innocenti-Brown-2011
+CCR5,CD28,0.010662686,Co-expression,Innocenti-Brown-2011
+CCL2,CCL3,0.01231407,Co-expression,Innocenti-Brown-2011
+CCL2,CCL11,0.01237243,Co-expression,Innocenti-Brown-2011
+ALB,HP,0.028902253,Co-expression,Innocenti-Brown-2011
+CCL5,PRF1,0.0074135135,Co-expression,Innocenti-Brown-2011
+CCL5,CD28,0.0074341604,Co-expression,Innocenti-Brown-2011
+CCL5,IFNG,0.007217673,Co-expression,Innocenti-Brown-2011
+CCL5,CCR5,0.0040818895,Co-expression,Innocenti-Brown-2011
+CCL11,CCR5,0.013208977,Co-expression,Alizadeh-Staudt-2000
+CCL2,CCR5,0.011988276,Co-expression,Alizadeh-Staudt-2000
+CCL2,FAS,0.015235048,Co-expression,Alizadeh-Staudt-2000
+CCL2,CCL11,0.012182925,Co-expression,Alizadeh-Staudt-2000
+CXCL12,CCR5,0.012873591,Co-expression,Alizadeh-Staudt-2000
+CXCL12,CCL11,0.013306107,Co-expression,Alizadeh-Staudt-2000
+CXCL12,CCL2,0.011776303,Co-expression,Alizadeh-Staudt-2000
+CCL5,CCR5,0.0073210243,Co-expression,Alizadeh-Staudt-2000
+CCL5,FAS,0.0067822216,Co-expression,Alizadeh-Staudt-2000
+CCL5,CCL11,0.0060383454,Co-expression,Alizadeh-Staudt-2000
+CCL5,CCL2,0.0067944364,Co-expression,Alizadeh-Staudt-2000
+CCL5,CXCL12,0.006066266,Co-expression,Alizadeh-Staudt-2000
+IL2RA,FCGR3A,0.0071315765,Co-expression,Mallon-McKay-2013
+CYP2B6,HP,0.012820698,Co-expression,Mallon-McKay-2013
+CD28,CX3CR1,0.0061090025,Co-expression,Mallon-McKay-2013
+CRP,HP,0.007027622,Co-expression,Mallon-McKay-2013
+CRP,CYP2B6,0.0118206395,Co-expression,Mallon-McKay-2013
+CRP,MBL2,0.008097847,Co-expression,Mallon-McKay-2013
+CCR5,CCL3,0.009012396,Co-expression,Mallon-McKay-2013
+CCR5,PRF1,0.0066931695,Co-expression,Mallon-McKay-2013
+CCR5,HLA-B,0.0048748786,Co-expression,Mallon-McKay-2013
+FAS,HLA-B,0.010562915,Co-expression,Mallon-McKay-2013
+FAS,CCR5,0.010662432,Co-expression,Mallon-McKay-2013
+SERPINA1,HP,0.0073395446,Co-expression,Mallon-McKay-2013
+SERPINA1,MBL2,0.009376092,Co-expression,Mallon-McKay-2013
+CCL2,HLA-B,0.0101955505,Co-expression,Mallon-McKay-2013
+CCL5,PRF1,0.008948551,Co-expression,Mallon-McKay-2013
+CCL5,CCR5,0.0072296057,Co-expression,Mallon-McKay-2013
+CCL5,FAS,0.014772848,Co-expression,Mallon-McKay-2013
+HLA-B,FCGR3A,0.0124098165,Co-expression,Rosenwald-Staudt-2001
+CCR5,HLA-B,0.0155018475,Co-expression,Rosenwald-Staudt-2001
+CCL11,CCR5,0.019569678,Co-expression,Rosenwald-Staudt-2001
+CCL2,HLA-B,0.020625096,Co-expression,Rosenwald-Staudt-2001
+CXCL12,CCR5,0.016278636,Co-expression,Rosenwald-Staudt-2001
+CCL5,CCR5,0.0067628045,Co-expression,Rosenwald-Staudt-2001
+CCL5,FAS,0.004918695,Co-expression,Rosenwald-Staudt-2001
+CCL5,CXCL12,0.006635877,Co-expression,Rosenwald-Staudt-2001
+PRF1,CCR2,0.011118774,Co-expression,Bild-Nevins-2006 B
+IFNG,PRF1,0.008096072,Co-expression,Bild-Nevins-2006 B
+CCR5,PRF1,0.009905992,Co-expression,Bild-Nevins-2006 B
+FAS,PRF1,0.00836456,Co-expression,Bild-Nevins-2006 B
+FAS,IFNG,0.022104548,Co-expression,Bild-Nevins-2006 B
+CCL11,IFNG,0.023972431,Co-expression,Bild-Nevins-2006 B
+SERPINA1,CX3CR1,0.013174486,Co-expression,Bild-Nevins-2006 B
+CCL5,CCL3,0.00835543,Co-expression,Bild-Nevins-2006 B
+CCL5,PRF1,0.0058329273,Co-expression,Bild-Nevins-2006 B
+CCL5,IFNG,0.010118028,Co-expression,Bild-Nevins-2006 B
+CCL5,CCR5,0.012556797,Co-expression,Bild-Nevins-2006 B
+CCL5,CCL11,0.008082764,Co-expression,Bild-Nevins-2006 B
+CCL3,CCL4L2,0.01959933,Co-expression,Ramaswamy-Golub-2001
+CCL11,ABCB1,0.030684141,Co-expression,Ramaswamy-Golub-2001
+SERPINA1,CYP2B6,0.014335803,Co-expression,Ramaswamy-Golub-2001
+CCL2,IL10,0.00805836,Co-expression,Ramaswamy-Golub-2001
+CXCL12,SERPINA1,0.012580552,Co-expression,Ramaswamy-Golub-2001
+CCL5,IFNG,0.017433967,Co-expression,Ramaswamy-Golub-2001
+FCGR3A,CCL3,0.005138227,Co-expression,Perou-Botstein-2000
+CCL11,CCL3,0.010500216,Co-expression,Perou-Botstein-2000
+CCL11,FCGR3A,0.008322316,Co-expression,Perou-Botstein-2000
+SERPINA1,FCGR3A,0.0072552897,Co-expression,Perou-Botstein-2000
+CCL2,CCL3,0.0074675246,Co-expression,Perou-Botstein-2000
+CCL2,CCL11,0.015645139,Co-expression,Perou-Botstein-2000
+CCL5,CCL3,0.008880383,Co-expression,Perou-Botstein-2000
+CCL5,CCL11,0.014363423,Co-expression,Perou-Botstein-2000
+CCL5,CCL2,0.010308523,Co-expression,Perou-Botstein-2000
+ABCB1,CYP2B6,0.006033221,Co-expression,Arijs-Rutgeerts-2009
+HLA-B,MBL2,0.018891398,Co-expression,Arijs-Rutgeerts-2009
+CCR5,IFNG,0.015996214,Co-expression,Arijs-Rutgeerts-2009
+CCL11,CX3CR1,0.011289797,Co-expression,Arijs-Rutgeerts-2009
+CCL2,CX3CR1,0.01000362,Co-expression,Arijs-Rutgeerts-2009
+CCL2,CCL11,0.007937465,Co-expression,Arijs-Rutgeerts-2009
+CXCL12,CCL11,0.009259826,Co-expression,Arijs-Rutgeerts-2009
+CCL5,PRF1,0.014265583,Co-expression,Arijs-Rutgeerts-2009
+CCR5,CCR2,0.01711503,Co-expression,Burington-Shaughnessy-2008
+SERPINA1,CX3CR1,0.0107071195,Co-expression,Burington-Shaughnessy-2008
+SERPINA1,FCGR3A,0.018860457,Co-expression,Burington-Shaughnessy-2008
+CCL2,IL10,0.014414896,Co-expression,Burington-Shaughnessy-2008
+CXCL12,CCL2,0.013867682,Co-expression,Burington-Shaughnessy-2008
+CCL11,CX3CR1,0.012688104,Co-expression,Chen-Brown-2002
+SERPINA1,ABCB1,0.006186691,Co-expression,Chen-Brown-2002
+CCL2,CCL3,0.004182024,Co-expression,Chen-Brown-2002
+CCL2,CCL11,0.008485111,Co-expression,Chen-Brown-2002
+CXCL12,CCL3,0.0058286875,Co-expression,Chen-Brown-2002
+ALB,SERPINA1,0.006028903,Co-expression,Chen-Brown-2002
+CCL5,CCL3,0.00874281,Co-expression,Chen-Brown-2002
+IL10,IL2RA,0.0121009,Co-expression,Dobbin-Giordano-2005
+IFNG,CCR2,0.01577747,Co-expression,Dobbin-Giordano-2005
+IFNG,PRF1,0.0058986694,Co-expression,Dobbin-Giordano-2005
+CRP,CYP2B6,0.008233127,Co-expression,Dobbin-Giordano-2005
+CRP,MBL2,0.004912648,Co-expression,Dobbin-Giordano-2005
+CCR5,PRF1,0.0048349327,Co-expression,Dobbin-Giordano-2005
+FAS,IL2RA,0.010797679,Co-expression,Dobbin-Giordano-2005
+SERPINA1,HP,0.01853439,Co-expression,Dobbin-Giordano-2005
+CCL5,CCR5,0.007167789,Co-expression,Dobbin-Giordano-2005
+HLA-B,TRIM5,0.010545858,Co-expression,Jiang-de Kok-2017
+FAS,ABCB1,0.015511599,Co-expression,Jiang-de Kok-2017
+CXCL12,CCL2,0.015239364,Co-expression,Jiang-de Kok-2017
+PRF1,CCR2,0.020019285,Co-expression,Wang-Cheung-2015
+IFNG,IL2RA,0.026682355,Co-expression,Wang-Cheung-2015
+CCL2,CCL11,0.008593727,Co-expression,Wang-Cheung-2015
+CCL11,CX3CR1,0.019273002,Co-expression,Ross-Perou-2001
+SERPINA1,ABCB1,0.014015993,Co-expression,Ross-Perou-2001
+CCR5,CD28,0.013294609,Co-expression,Wu-Garvey-2007
+SERPINA1,FCGR3A,0.019506324,Co-expression,Wu-Garvey-2007
+CYP2B6,CX3CR1,0.005354194,Co-expression,Boldrick-Relman-2002
+CCL2,CCL11,0.026001899,Co-expression,Boldrick-Relman-2002
+IFNG,CCL3,0.013753017,Co-expression,Rieger-Chu-2004
+IFNG,ABCB1,0.013204129,Co-expression,Rieger-Chu-2004
+IFNG,IL10,0.014559264,Co-localization,Schadt-Shoemaker-2004
+CRP,CYP2B6,0.011249205,Co-localization,Schadt-Shoemaker-2004
+CRP,MBL2,0.012120035,Co-localization,Schadt-Shoemaker-2004
+CD40LG,IL2RA,0.01678072,Co-localization,Schadt-Shoemaker-2004
+CD40LG,IL2,0.013780787,Co-localization,Schadt-Shoemaker-2004
+CD40LG,IFNG,0.012612364,Co-localization,Schadt-Shoemaker-2004
+FAS,IL10,0.01898528,Co-localization,Schadt-Shoemaker-2004
+FAS,IFNG,0.012949615,Co-localization,Schadt-Shoemaker-2004
+SERPINA1,FCGR3A,0.007350086,Co-localization,Schadt-Shoemaker-2004
+SERPINA1,CYP2B6,0.012208002,Co-localization,Schadt-Shoemaker-2004
+CXCL12,FCGR3A,0.0070503317,Co-localization,Schadt-Shoemaker-2004
+CXCL12,CD40LG,0.0076346267,Co-localization,Schadt-Shoemaker-2004
+ALB,SERPINA1,0.013469033,Co-localization,Schadt-Shoemaker-2004
+CYP2B6,HP,0.011387125,Co-localization,Johnson-Shoemaker-2003
+MBL2,HP,0.005641714,Co-localization,Johnson-Shoemaker-2003
+MBL2,CYP2B6,0.011530677,Co-localization,Johnson-Shoemaker-2003
+CD40LG,CD28,0.0063656573,Co-localization,Johnson-Shoemaker-2003
+CCR5,IL2RA,0.012153839,Co-localization,Johnson-Shoemaker-2003
+CCR5,IFNG,0.0065409173,Co-localization,Johnson-Shoemaker-2003
+CCR5,CD40LG,0.0053214324,Co-localization,Johnson-Shoemaker-2003
+FAS,IL10,0.0153365405,Co-localization,Johnson-Shoemaker-2003
+SERPINA1,HP,0.0051782522,Co-localization,Johnson-Shoemaker-2003
+SERPINA1,CYP2B6,0.012612084,Co-localization,Johnson-Shoemaker-2003
+SERPINA1,MBL2,0.005239976,Co-localization,Johnson-Shoemaker-2003
+ALB,HP,0.008873852,Co-localization,Johnson-Shoemaker-2003
+ALB,MBL2,0.008050544,Co-localization,Johnson-Shoemaker-2003
+ALB,SERPINA1,0.0077958517,Co-localization,Johnson-Shoemaker-2003
+CCL5,IFNG,0.004676896,Co-localization,Johnson-Shoemaker-2003
+CCL5,CD40LG,0.0040783663,Co-localization,Johnson-Shoemaker-2003
+CCL5,CCR5,0.00474836,Co-localization,Johnson-Shoemaker-2003
+CCL5,CCL2,1.0,Genetic Interactions,BIOGRID-SMALL-SCALE-STUDIES
+FCGR3A,KIR3DL1,0.0059038526,Genetic Interactions,Lin-Smith-2010
+IL2RA,TRIM5,0.0013629074,Genetic Interactions,Lin-Smith-2010
+IL10,HP,0.0025219077,Genetic Interactions,Lin-Smith-2010
+ABCB1,KIR3DL1,0.002757366,Genetic Interactions,Lin-Smith-2010
+ABCB1,CCR2,0.00095247,Genetic Interactions,Lin-Smith-2010
+ABCB1,IL2RA,0.0007662344,Genetic Interactions,Lin-Smith-2010
+MBL2,TRIM5,0.0009436174,Genetic Interactions,Lin-Smith-2010
+IFNG,IL2RA,0.0006920902,Genetic Interactions,Lin-Smith-2010
+IFNG,PRF1,0.0014538446,Genetic Interactions,Lin-Smith-2010
+CRP,CCR2,0.0014019397,Genetic Interactions,Lin-Smith-2010
+MKI67,PRF1,0.001291313,Genetic Interactions,Lin-Smith-2010
+MKI67,IL2,0.0010714855,Genetic Interactions,Lin-Smith-2010
+MKI67,CD28,0.00078642374,Genetic Interactions,Lin-Smith-2010
+MKI67,IFNG,0.00045731085,Genetic Interactions,Lin-Smith-2010
+FAS,CCR5,0.00199728,Genetic Interactions,Lin-Smith-2010
+CCL11,FCGR3A,0.0038375363,Genetic Interactions,Lin-Smith-2010
+SERPINA1,CCR2,0.0007853385,Genetic Interactions,Lin-Smith-2010
+SERPINA1,ABCB1,0.0005203571,Genetic Interactions,Lin-Smith-2010
+SERPINA1,IFNG,0.0004700051,Genetic Interactions,Lin-Smith-2010
+SERPINA1,CRP,0.0007659131,Genetic Interactions,Lin-Smith-2010
+SERPINA1,CCL11,0.0014778048,Genetic Interactions,Lin-Smith-2010
+CXCL12,PRF1,0.0010302671,Genetic Interactions,Lin-Smith-2010
+CXCL12,CRP,0.00059457513,Genetic Interactions,Lin-Smith-2010
+CXCL12,CD40LG,0.00090544287,Genetic Interactions,Lin-Smith-2010
+CXCL12,MKI67,0.00032407336,Genetic Interactions,Lin-Smith-2010
+CXCL12,SERPINA1,0.00033306913,Genetic Interactions,Lin-Smith-2010
+CXCL12,CCL2,0.0020779653,Genetic Interactions,Lin-Smith-2010
+ALB,FCGR3A,0.002352569,Genetic Interactions,Lin-Smith-2010
+ALB,MKI67,0.00088148686,Genetic Interactions,Lin-Smith-2010
+HLA-B,KIR3DL1,0.79478693,Pathway,REACTOME
+IL2,IL2RA,0.008098671,Pathway,Wu-Stein-2010
+IFNG,IL2,0.009552497,Pathway,Wu-Stein-2010
+HLA-B,KIR3DL1,0.13239016,Pathway,Wu-Stein-2010
+CCR5,CCL3,0.17528625,Pathway,Wu-Stein-2010
+CCL11,CCR5,0.02470039,Pathway,Wu-Stein-2010
+CCL2,CCR2,0.12539132,Pathway,Wu-Stein-2010
+CXCL12,CCR5,0.018955423,Pathway,Wu-Stein-2010
+CCL5,CCR5,0.025105529,Pathway,Wu-Stein-2010
+PRF1,IL2RA,0.035926938,Pathway,NCI_NATURE
+IL2,IL2RA,0.01000053,Pathway,NCI_NATURE
+IL2,PRF1,0.025020933,Pathway,NCI_NATURE
+CD28,PRF1,0.0707275,Pathway,NCI_NATURE
+IFNG,IL2,0.009391045,Pathway,NCI_NATURE
+IFNG,CD28,0.026545977,Pathway,NCI_NATURE
+IL2,IL2RA,0.41137272,Physical Interactions,IREF-innatedb
+CCR5,CCR2,0.10438434,Physical Interactions,IREF-innatedb
+CCL11,CCR5,0.23614071,Physical Interactions,IREF-innatedb
+CCL2,CCR2,0.090632215,Physical Interactions,IREF-innatedb
+CCL2,CCR5,0.10327385,Physical Interactions,IREF-innatedb
+CCL2,CCL11,0.20503037,Physical Interactions,IREF-innatedb
+CCL2,CCL4L2,0.19561607,Physical Interactions,IREF-bhf-ucl
+CCL2,CCL11,0.044028934,Physical Interactions,IREF-bhf-ucl
+CXCL12,CCL11,0.03455764,Physical Interactions,IREF-bhf-ucl
+CCL5,CCR5,0.17072193,Physical Interactions,IREF-bhf-ucl
+CCL5,CCL11,0.024142789,Physical Interactions,IREF-bhf-ucl
+CCL5,CCL2,0.038512878,Physical Interactions,IREF-bhf-ucl
+CCL5,CXCL12,0.030228171,Physical Interactions,IREF-bhf-ucl
+CCL2,CCL4L2,0.19595851,Physical Interactions,von Hundelshausen-Weber-2017
+CCL2,CCL11,0.044148877,Physical Interactions,von Hundelshausen-Weber-2017
+CXCL12,CCL11,0.0346035,Physical Interactions,von Hundelshausen-Weber-2017
+CCL5,CCR5,0.16724797,Physical Interactions,von Hundelshausen-Weber-2017
+CCL5,CCL11,0.023589645,Physical Interactions,von Hundelshausen-Weber-2017
+CCL5,CCL2,0.037659775,Physical Interactions,von Hundelshausen-Weber-2017
+CCL5,CXCL12,0.029517401,Physical Interactions,von Hundelshausen-Weber-2017
+IL2,IL2RA,0.7962252,Physical Interactions,IREF-bind
+ALB,HP,0.11025451,Physical Interactions,Zhou-Conrads-2004
+IL2,IL2RA,0.4987979,Physical Interactions,IREF-dip
+CCR5,CCL3,0.16194157,Physical Interactions,IREF-dip
+CCL11,CCR5,0.20483033,Physical Interactions,IREF-dip
+CCL2,CCR2,0.2558417,Physical Interactions,IREF-dip
+CCL2,CCR5,0.15827802,Physical Interactions,IREF-dip
+CCL5,CCR5,0.13575289,Physical Interactions,IREF-dip
+IL2,IL2RA,0.7962252,Physical Interactions,IREF-bind-translation
+IL2,IL2RA,0.86308753,Physical Interactions,IREF-spike
+IL2,IL2RA,0.22841433,Physical Interactions,IREF-hprd
+HLA-B,KIR3DL1,0.34522873,Physical Interactions,IREF-hprd
+CCR5,CCL3,0.04869684,Physical Interactions,IREF-hprd
+CCR5,CCR2,0.040601134,Physical Interactions,IREF-hprd
+CCL11,CCR2,0.13700691,Physical Interactions,IREF-hprd
+CCL11,CCR5,0.057093184,Physical Interactions,IREF-hprd
+CCL2,CCR2,0.096891575,Physical Interactions,IREF-hprd
+CCL2,CCR5,0.04037642,Physical Interactions,IREF-hprd
+CCL5,CCR5,0.03181098,Physical Interactions,IREF-hprd
+CD40LG,CD28,0.32424608,Physical Interactions,IREF-quickgo
+CCR5,CCL3,0.26732248,Physical Interactions,IREF-quickgo
+CCL5,CCR5,0.1939146,Physical Interactions,IREF-quickgo
+IL2,IL2RA,0.717205,Physical Interactions,IREF-intact
+HLA-B,KIR3DL1,0.02007369,Physical Interactions,IREF-intact
+CCL2,CCL4L2,0.04095499,Physical Interactions,IREF-intact
+CCL2,CCL11,0.038898706,Physical Interactions,IREF-intact
+CXCL12,CCL11,0.028755,Physical Interactions,IREF-intact
+ALB,CRP,0.10825527,Physical Interactions,IREF-intact
+CCL5,CCR5,0.028685115,Physical Interactions,IREF-intact
+CCL5,CCL11,0.019707555,Physical Interactions,IREF-intact
+CCL5,CCL2,0.0328423,Physical Interactions,IREF-intact
+CCL5,CXCL12,0.024277937,Physical Interactions,IREF-intact
+IL2,IL2RA,0.76536685,Physical Interactions,IREF-matrixdb
+CCL2,CCL4L2,0.14840718,Physical Interactions,IREF-matrixdb
+CCL2,CCL11,0.036569767,Physical Interactions,IREF-matrixdb
+CXCL12,CCL11,0.025894918,Physical Interactions,IREF-matrixdb
+CCL5,CCR5,0.054634687,Physical Interactions,IREF-matrixdb
+CCL5,CCL11,0.014173252,Physical Interactions,IREF-matrixdb
+CCL5,CCL2,0.025046475,Physical Interactions,IREF-matrixdb
+CCL5,CXCL12,0.017735317,Physical Interactions,IREF-matrixdb
+CCR5,CCR2,0.04166302,Predicted,Wu-Stein-2010
+FAS,CD40LG,0.12604062,Predicted,Wu-Stein-2010
+CCL11,CCR2,0.15285188,Predicted,Wu-Stein-2010
+CCL2,CCL3,0.048349626,Predicted,Wu-Stein-2010
+CCL2,CCR5,0.035078276,Predicted,Wu-Stein-2010
+CCL2,CCL11,0.12869398,Predicted,Wu-Stein-2010
+CCL5,CCL3,0.04425079,Predicted,Wu-Stein-2010
+CCL5,PRF1,0.22759746,Predicted,Wu-Stein-2010
+CCL5,HLA-B,0.025524037,Predicted,Wu-Stein-2010
+CCL5,CCL2,0.029735757,Predicted,Wu-Stein-2010
+CCL5,CXCL12,0.028602859,Predicted,Wu-Stein-2010
+CCL3,CCL4L2,0.028141612,Shared protein domains,INTERPRO
+IL2RA,HP,0.012981567,Shared protein domains,INTERPRO
+IL10,IL2,0.017056346,Shared protein domains,INTERPRO
+IFNG,IL2,0.020639751,Shared protein domains,INTERPRO
+IFNG,IL10,0.017056407,Shared protein domains,INTERPRO
+CCR5,CCR2,0.03567302,Shared protein domains,INTERPRO
+CCL11,CCL4L2,0.028141612,Shared protein domains,INTERPRO
+CCL11,CCL3,0.028141612,Shared protein domains,INTERPRO
+CCL2,CCL4L2,0.028141612,Shared protein domains,INTERPRO
+CCL2,CCL3,0.028141612,Shared protein domains,INTERPRO
+CCL2,CCL11,0.028141612,Shared protein domains,INTERPRO
+CXCL12,CCL4L2,0.021012042,Shared protein domains,INTERPRO
+CXCL12,CCL3,0.021012042,Shared protein domains,INTERPRO
+CXCL12,CCL11,0.021012042,Shared protein domains,INTERPRO
+CXCL12,CCL2,0.021012042,Shared protein domains,INTERPRO
+CCL5,CCL4L2,0.028141612,Shared protein domains,INTERPRO
+CCL5,CCL3,0.028141612,Shared protein domains,INTERPRO
+CCL5,CCL11,0.028141612,Shared protein domains,INTERPRO
+CCL5,CCL2,0.028141612,Shared protein domains,INTERPRO
+CCL5,CXCL12,0.021012042,Shared protein domains,INTERPRO
